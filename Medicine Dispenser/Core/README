@@ -1,0 +1,2 @@
+For some reason the whole setup cannot be sent onto Github, I tried many times and failed.
+But the main written code is still in Core/Src/main.c, which manipulates the whole device.
